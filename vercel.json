@@ -1,0 +1,13 @@
+{
+    "build": {
+      "env": {
+        "CUSTOM_ENV_VAR": "value"
+      },
+      "commands": [
+        "npm install",
+        "npm run build",
+        "node script.js"
+      ]
+    }
+  }
+  
